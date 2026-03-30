@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Floral Summer Dress",
+    "price": 49,
+    "category": "women",
+    "image": "https://images.pexels.com/photos/1036622/pexels-photo-1036622.jpeg?auto=compress&cs=tinysrgb&w=300"
+  },
+  {
+    "id": 2,
+    "name": "Elegant Saree",
+    "price": 89,
+    "category": "women",
+    "image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=300"
+  }
+]
